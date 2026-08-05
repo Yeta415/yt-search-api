@@ -1,6 +1,8 @@
 how to use
-npm install
+1.npm install
 
-node yt.js
-http://localhost:3000/yt/s?q=
+2.node yt.js
+
+3.http://localhost:3000/yt/s?q=
+
 and done 
