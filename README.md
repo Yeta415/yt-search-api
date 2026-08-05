@@ -6,3 +6,5 @@ how to use
 3.http://localhost:3000/yt/s?q=
 
 and done 
+
+nodejs 20 rekomendation
